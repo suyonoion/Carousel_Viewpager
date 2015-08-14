@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="entries">
+		<item>@drawable/page1</item>
+		<item>@drawable/page2</item>
+		<item>@drawable/page3</item>
+		<item>@drawable/page4</item>
+		<item>@drawable/page5</item>
+	</array>	
+	<array name="names">
+	    <item>Page 1</item>
+	    <item>Page 2</item>
+	    <item>Page 3</item>
+		<item>Page 4</item>
+		<item>Page 5</item>
+	</array>
+</resources>
